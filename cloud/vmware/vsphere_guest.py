@@ -1223,7 +1223,7 @@ def main():
         'nic1': {
             'type': basestring,
             'network': basestring,
-            'network_type': basestring,
+            'network_type': basestring
         }
     }
 
